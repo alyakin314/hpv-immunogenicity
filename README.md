@@ -17,8 +17,6 @@ hpv-immunogenicity
 │   └── intermediate files of the sequences extraction (various formats)
 ├── results
 │   └── files with our results (various formats)
-├── figures
-│   └── our figures (.png)
-└── netMHCpan-4.1
-    └── netMHCpan distribution (publically available) with some source code fixes
+└── figures
+    └── our figures (.png)
 ```
